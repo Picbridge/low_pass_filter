@@ -6,12 +6,16 @@ filtered by 1 time, 30 times, 100 times each.
 
 ## How to run
 
-**Command lines in cmd after g++ compile :** 
-./lowpass.exe *a1* *N* input.wav
+1. Download exe file
+2. type in "**./lowpass.exe** *a1* *N* **input.wav**" in cmd
 
-*a1*: Filter coefficient
+   *a1*: Filter coefficient
 
-*N*: Number of repetition
+   *N*: Number of repetition
+
+3. lowpass.wav will be generated
+
+
 
 
 
