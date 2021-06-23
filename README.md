@@ -2,7 +2,7 @@
 
 Tested with: g++ -ansi -pedantic -Wall -Werror -o lowpass lowpass.cpp
 There are some test cases using included "Fsharp5mono.wav"
-filtered by 1 time, 30 times, 50 times each. 
+filtered by 1 time, 30 times, 100 times each. 
 
 ## How to run
 
